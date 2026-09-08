@@ -2,4 +2,14 @@
 title: "About"
 ---
 
-About this site
+## Background
+
+I completed both my undergraduate degree and my first master's degree in the United States, studying economics and statistics. Before MDS, I worked for seven years in banking and consulting, with roles in the US and China. My work focused on data analysis for legal and compliance teams.
+
+## Why data science
+
+Those years made it clear that I needed a more systematic training in data itself, not only in finance and mathematical statistics. I want stronger skills for industry work, and I want to keep up with what the AI era now expects.
+
+## Outside of data science
+
+In my free time I like hiking and playing games, especially RTS and strategy simulations such as Stellaris, Civilization, and Crusader Kings.
